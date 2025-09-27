@@ -2,6 +2,7 @@
 # AUTHOR: zen
 # REPO: https://github.com/zeaner/qxscript
 # UPDATED: 2025-09-27 10:02:56
-# HOST-SUFFIX: 1
-# TOTAL: 1
+# HOST-SUFFIX: 2
+# TOTAL: 2
 HOST-SUFFIX,coupang.com,coupang
+HOST-SUFFIX,coupangcdn.com,coupang
